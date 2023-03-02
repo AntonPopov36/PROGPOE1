@@ -1,0 +1,5 @@
+/Users/antonpopov/Desktop/bruh.exe/PersonalBudgetAYP
+/Users/antonpopov/Desktop/bruh.exe/PersonalBudgetAYP.dll
+/Users/antonpopov/Desktop/bruh.exe/PersonalBudgetAYP.deps.json
+/Users/antonpopov/Desktop/bruh.exe/PersonalBudgetAYP.runtimeconfig.json
+/Users/antonpopov/Desktop/bruh.exe/PersonalBudgetAYP.pdb

@@ -1,0 +1,13 @@
+/Users/antonpopov/Desktop/C#/PersonalBudgetAYP/PersonalBudgetAYP/bin/Debug/netcoreapp3.1/PersonalBudgetAYP.deps.json
+/Users/antonpopov/Desktop/C#/PersonalBudgetAYP/PersonalBudgetAYP/bin/Debug/netcoreapp3.1/PersonalBudgetAYP.runtimeconfig.json
+/Users/antonpopov/Desktop/C#/PersonalBudgetAYP/PersonalBudgetAYP/bin/Debug/netcoreapp3.1/PersonalBudgetAYP.runtimeconfig.dev.json
+/Users/antonpopov/Desktop/C#/PersonalBudgetAYP/PersonalBudgetAYP/bin/Debug/netcoreapp3.1/PersonalBudgetAYP.dll
+/Users/antonpopov/Desktop/C#/PersonalBudgetAYP/PersonalBudgetAYP/bin/Debug/netcoreapp3.1/PersonalBudgetAYP.pdb
+/Users/antonpopov/Desktop/C#/PersonalBudgetAYP/PersonalBudgetAYP/obj/Debug/netcoreapp3.1/PersonalBudgetAYP.csproj.AssemblyReference.cache
+/Users/antonpopov/Desktop/C#/PersonalBudgetAYP/PersonalBudgetAYP/obj/Debug/netcoreapp3.1/PersonalBudgetAYP.GeneratedMSBuildEditorConfig.editorconfig
+/Users/antonpopov/Desktop/C#/PersonalBudgetAYP/PersonalBudgetAYP/obj/Debug/netcoreapp3.1/PersonalBudgetAYP.AssemblyInfoInputs.cache
+/Users/antonpopov/Desktop/C#/PersonalBudgetAYP/PersonalBudgetAYP/obj/Debug/netcoreapp3.1/PersonalBudgetAYP.AssemblyInfo.cs
+/Users/antonpopov/Desktop/C#/PersonalBudgetAYP/PersonalBudgetAYP/obj/Debug/netcoreapp3.1/PersonalBudgetAYP.csproj.CoreCompileInputs.cache
+/Users/antonpopov/Desktop/C#/PersonalBudgetAYP/PersonalBudgetAYP/obj/Debug/netcoreapp3.1/PersonalBudgetAYP.dll
+/Users/antonpopov/Desktop/C#/PersonalBudgetAYP/PersonalBudgetAYP/obj/Debug/netcoreapp3.1/PersonalBudgetAYP.pdb
+/Users/antonpopov/Desktop/C#/PersonalBudgetAYP/PersonalBudgetAYP/obj/Debug/netcoreapp3.1/PersonalBudgetAYP.genruntimeconfig.cache
